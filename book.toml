@@ -3,4 +3,4 @@ authors = ["Matheus Consoli"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Learn Async Rust with Entire Too Many Async Runtimes"
+title = "Learn Async Rust With Entire Too Many Async Runtimes"
